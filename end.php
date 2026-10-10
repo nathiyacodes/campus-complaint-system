@@ -1,0 +1,1 @@
+</main><footer class="footer"><span>© <?=date("Y")?> CampusCare</span><span>Making campus better, one report at a time.</span></footer></body></html>
